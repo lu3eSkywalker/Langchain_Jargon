@@ -5,7 +5,7 @@
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
-    "dev": "ts-node src/01_Structured_Output.ts"
+    "dev": "ts-node src/01_Simple_Chain.ts"
   },
   "keywords": [],
   "author": "",
