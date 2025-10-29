@@ -1,0 +1,92 @@
+[
+    {
+        "Date": "2025-10-16",
+        "Open (USD)": 117700.0,
+        "High (USD)": 120500.0,
+        "Low (USD)": 117000.0,
+        "Close (USD)": 119000.0,
+        "Volume (USD)": 28000000000,
+        "Market Cap (USD)": 2200000000000
+    },
+    {
+        "Date": "2025-10-17",
+        "Open (USD)": 120900.0,
+        "High (USD)": 122300.0,
+        "Low (USD)": 118800.0,
+        "Close (USD)": 120000.0,
+        "Volume (USD)": 31200000000,
+        "Market Cap (USD)": 2235000000000
+    },
+    {
+        "Date": "2025-10-18",
+        "Open (USD)": 119000.0,
+        "High (USD)": 121800.0,
+        "Low (USD)": 118300.0,
+        "Close (USD)": 119500.0,
+        "Volume (USD)": 29500000000,
+        "Market Cap (USD)": 2220000000000
+    },
+    {
+        "Date": "2025-10-19",
+        "Open (USD)": 122050.0,
+        "High (USD)": 123450.0,
+        "Low (USD)": 119950.0,
+        "Close (USD)": 121950.0,
+        "Volume (USD)": 33100000000,
+        "Market Cap (USD)": 2240000000000
+    },
+    {
+        "Date": "2025-10-20",
+        "Open (USD)": 122200.0,
+        "High (USD)": 125000.0,
+        "Low (USD)": 121500.0,
+        "Close (USD)": 122700.0,
+        "Volume (USD)": 35400000000,
+        "Market Cap (USD)": 2270000000000
+    },
+    {
+        "Date": "2025-10-21",
+        "Open (USD)": 122800.0,
+        "High (USD)": 124200.0,
+        "Low (USD)": 120700.0,
+        "Close (USD)": 121900.0,
+        "Volume (USD)": 30800000000,
+        "Market Cap (USD)": 2260000000000
+    },
+    {
+        "Date": "2025-10-22",
+        "Open (USD)": 120200.0,
+        "High (USD)": 123000.0,
+        "Low (USD)": 119500.0,
+        "Close (USD)": 121500.0,
+        "Volume (USD)": 29000000000,
+        "Market Cap (USD)": 2245000000000
+    },
+    {
+        "Date": "2025-10-23",
+        "Open (USD)": 120100.0,
+        "High (USD)": 121500.0,
+        "Low (USD)": 118000.0,
+        "Close (USD)": 119200.0,
+        "Volume (USD)": 27500000000,
+        "Market Cap (USD)": 2210000000000
+    },
+    {
+        "Date": "2025-10-24",
+        "Open (USD)": 117000.0,
+        "High (USD)": 119800.0,
+        "Low (USD)": 116300.0,
+        "Close (USD)": 117500.0,
+        "Volume (USD)": 26000000000,
+        "Market Cap (USD)": 2175000000000
+    },
+    {
+        "Date": "2025-10-25",
+        "Open (USD)": 116800.0,
+        "High (USD)": 118200.0,
+        "Low (USD)": 114700.0,
+        "Close (USD)": 116700.0,
+        "Volume (USD)": 24800000000,
+        "Market Cap (USD)": 2140000000000
+    }
+]
