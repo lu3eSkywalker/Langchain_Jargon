@@ -1,0 +1,31 @@
+{
+  "name": "01.-models",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@langchain/community": "^0.3.56",
+    "@langchain/core": "^0.3.78",
+    "@langchain/google-genai": "^0.2.18",
+    "d3-dsv": "^2.0.0",
+    "dotenv": "^16.4.5",
+    "mathjs": "^15.0.0",
+    "pdf-parse": "^1.1.1",
+    "puppeteer": "^24.26.1",
+    "semantic-chunking": "^2.4.4",
+    "zod": "^3.25.76"
+  }
+}
